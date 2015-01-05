@@ -113,14 +113,15 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:015282_0000_0F98829E3AF96D68"/>
-            <pb facs="tcp:015282_0001_0F98829F00C0CF60" rendition="simple:additions"/>
+            <pb facs="unknown:015282_0000_0F98829E3AF96D68"/>
+            <pb facs="unknown:015282_0001_0F98829F00C0CF60"
+                rendition="simple:additions"/>
             <p>THE LAW given at SINAI: A POEM.</p>
             <p>By a young Gentleman.</p>
             <p>BOSTON: Printed by THOMAS and JOHN FLEET, in Cornhill, 1777.</p>
          </div>
          <div type="dedication">
-            <pb facs="tcp:015282_0002_0F98829FBACB25C0"/>
+            <pb facs="unknown:015282_0002_0F98829FBACB25C0"/>
             <head>To the reverend Dr. LANGDON, Preſident of Harvard College.</head>
             <opener>
                <salute>Hon<hi rend="sup">d</hi> Sir,</salute>
@@ -138,7 +139,7 @@
       </front>
       <body>
          <div type="poem">
-            <pb facs="tcp:015282_0003_0F9882A07ACE2B30"/>
+            <pb facs="unknown:015282_0003_0F9882A07ACE2B30"/>
             <head>The LAW given at SINAI: A POEM.</head>
             <lg>
                <l>THro' heaven's high courts the trump eternal roars—</l>
@@ -152,7 +153,7 @@
                <l>Heav'n's radiant Bow his awful head arrays,</l>
                <l>His face the ſun's refulgent beam diſplays;</l>
                <l>
-                  <pb facs="tcp:015282_0004_0F9882A140181410"/>Beneath his feet th' avenging bolts are hurl'd,</l>
+                  <pb facs="unknown:015282_0004_0F9882A140181410"/>Beneath his feet th' avenging bolts are hurl'd,</l>
                <l>Th' avenging bolts that ſhake a guilty world.—</l>
                <l>Sounds but his dread command when down they fly,</l>
                <l>The deep-mouth'd thunder rends the vaulted sky;</l>
@@ -175,7 +176,7 @@
                <l>Whoſe mighty nod the rough tumultuous ſea,</l>
                <l>The whirlwind's Sweep, and rending bolt obey.</l>
                <l>
-                  <pb facs="tcp:015282_0005_0F9882A1FACB8F38"/>I ſpeak—and lo ten thouſand thunders roll—</l>
+                  <pb facs="unknown:015282_0005_0F9882A1FACB8F38"/>I ſpeak—and lo ten thouſand thunders roll—</l>
                <l>I breath—and lightning gleams from pole to pole.</l>
                <l>Th' Almighty is my name—at my command</l>
                <l>Thick darkneſs roſe that veil'd the Memphian land.</l>
@@ -198,7 +199,7 @@
                <l>That when at laſt the heavens and earth expire,</l>
                <l>And nature rolls in one devouring fire,</l>
                <l>
-                  <pb facs="tcp:015282_0006_0F9882A2BAD0EE38"/>Ye might in tranſport view th' advancing hour.</l>
+                  <pb facs="unknown:015282_0006_0F9882A2BAD0EE38"/>Ye might in tranſport view th' advancing hour.</l>
                <l>In tranſport hear the laſt dread thunders roar;</l>
                <l>Then like the day emerging from the gloom,</l>
                <l>Ariſe to flouriſh in eternal bloom—</l>
@@ -221,7 +222,7 @@
                <l>A work how vaſt!—full worthy to receive</l>
                <l>Eternal reverence from the ſons of Eve.—</l>
                <l>
-                  <pb facs="tcp:015282_0007_0F9882A37B8C2BD0"/>Your parents honor, and an awe be paid</l>
+                  <pb facs="unknown:015282_0007_0F9882A37B8C2BD0"/>Your parents honor, and an awe be paid</l>
                <l>To ſage experience and the hoary head:</l>
                <l>Then full of days, in hoary peace ye'll die,</l>
                <l>With bleſſings crown'd and ripen'd for the sky.</l>
@@ -244,7 +245,7 @@
                <l>Fear in a thouſand forms the camp aſſails,</l>
                <l>Nothing but ſhrieks and groans and death prevails.</l>
                <l>
-                  <pb facs="tcp:015282_0008_0F9882A43B8939E8"/>Short-ſighted wretches that the ſtorm behold,</l>
+                  <pb facs="unknown:015282_0008_0F9882A43B8939E8"/>Short-ſighted wretches that the ſtorm behold,</l>
                <l>And all the terrors that his throne infold;</l>
                <l>But think not that its baſe on mercy lies,</l>
                <l>Tho' all around it clouds eternal riſe!—</l>
@@ -267,7 +268,7 @@
                <l>But where's the muſe?—behold the Almighty riſe:</l>
                <l>The whirlwind bears him up the flaming skies.</l>
                <l>
-                  <pb facs="tcp:015282_0009_0F9882A4FACBD970"/>Follow harmonious all the tuneful choir,</l>
+                  <pb facs="unknown:015282_0009_0F9882A4FACBD970"/>Follow harmonious all the tuneful choir,</l>
                <l>Sweet concert ſweeping from the ſwelling lyre.</l>
                <l>Such notes as at creation's birth they ſung,</l>
                <l>When heaven's broad arch with hallelujahs rung.</l>
